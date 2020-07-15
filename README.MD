@@ -11,8 +11,11 @@ Download the code and follow https://www.youtube.com/watch?v=IolxqkL7cD8 exactly
 ## Usage
 
 ```python
+Remember to add username and password as it is given in video to path
+Enter the path of the project 
+use commas to seperate emails
 
-Remember to insert '\' (without '') after adding the file path 
+
 ```
 
 ## Contributing

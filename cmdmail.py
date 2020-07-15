@@ -38,7 +38,7 @@ msg.set_content(CONTENT)
 
 # Iterating through files in path and adding them as an attachment
 for file in files:
-    with open(PATH+file,'rb') as f:
+    with open(PATH+"\\"+file,'rb') as f:
         file_data = f.read()
         file_name = f.name
 
